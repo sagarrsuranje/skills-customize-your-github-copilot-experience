@@ -40,6 +40,20 @@
         }
       ]
     },
+      {
+        "id": "fastapi-rest-api",
+        "title": "Building REST APIs with FastAPI",
+        "description": "Learn to build and deploy REST APIs using the FastAPI framework in Python. Students will create endpoints, handle requests, and return responses in JSON format.",
+        "path": "assignments/fastapi-rest-api",
+        "dueDate": "2026-03-24",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          }
+        ]
+      },
     {
       "id": "data-analysis",
       "title": "Data Analysis",
